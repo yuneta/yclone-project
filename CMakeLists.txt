@@ -42,8 +42,8 @@ include_directories(/yuneta/development/output/include)
 SET (YUNO_SRCS
     yclone_project.c
     make_clone.c
-        clone_tree_dir.c
-    /yuneta/development/yuneta/^gobj-ecosistema/ghelpers/src/00_replace_string.c
+    clone_tree_dir.c
+    00_replace_string.c
 )
 SET (YUNO_HDRS
 )
