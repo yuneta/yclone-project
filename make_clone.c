@@ -14,7 +14,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <argp.h>
-#include <pcre2posix.h>
+#include <regex.h>
 #include <jansson.h>
 #include <12_walkdir.h>
 #include "make_clone.h"
