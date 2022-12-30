@@ -1,6 +1,6 @@
 /****************************************************************************
  *          YCLONE-PROJECT.C
- *          Make skeleton of yunos ang gclasses.
+ *          Clone a project with new name
  *
  *          Copyright (c) 2015 Niyamaka.
  *          All Rights Reserved.
